@@ -60,7 +60,7 @@ components:
       - gradle:properties:version
       - gradle:dependencies:opensearch.version
   - name: security
-    repository: https://github.com/opensearch-project/security.git
+    repository: https://github.com/jorgeasnsantos/security.git
     ref: tags/1.3.1.0
   - name: performance-analyzer
     repository: https://github.com/opensearch-project/performance-analyzer.git
